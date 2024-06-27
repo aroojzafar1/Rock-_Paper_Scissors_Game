@@ -27,7 +27,7 @@ Setup
 
 Clone the repository:
 
-
+git clone https://github.com/aroojzafar1/Rock_Paper_Scissors_Game.git
 
 Open index.html in your browser to play the game.
 
